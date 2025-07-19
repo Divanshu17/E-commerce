@@ -1,0 +1,19 @@
+components/
+  Navbar.jsx
+  ProductCard.jsx
+  ProductGrid.jsx
+  CartItem.jsx
+  SearchBar.jsx
+pages/
+  Home.jsx
+  Products.jsx
+  ProductDetail.jsx
+  Cart.jsx
+  Checkout.jsx
+  Success.jsx
+context/
+  CartContext.jsx
+data/
+  products.json
+styles/
+  global.css
